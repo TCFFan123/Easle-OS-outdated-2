@@ -15,4 +15,6 @@ Run the installer.
  Type dsxmenu menu.ini.
  Choose Easle OS.
  Now it's ready to use!
+ # News
+ This is EOL. New rewrite soon!
   
